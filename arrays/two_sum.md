@@ -4,18 +4,19 @@
 https://leetcode.com/problems/two-sum/
 
 ## 題型分類
-Array, Hash Table, Easy
+ex: Array, Hash Table, Easy
 
-## 解法一：暴力
-- 雙迴圈，時間複雜度 O(n^2)
+## 解法一：簡單暴力
+two-pass, 很爛
 
-## 解法二：HashMap
-- 邊掃邊查補數是否出現過
-- 時間：O(n)，空間：O(n)
+## 解法二：最佳解（如 Hash Map）
 
-## 關鍵技巧
-- 對應 hash 的操作要熟
-- 注意補數 = target - num
+## 關鍵技巧與邏輯
+- 使用map 去記錄一個val 和 val 出現的index, 對每個val 都去檢查 target-val 有無存在
+
+## 時間複雜度 / 空間複雜度
+O(N) / O(N)
 
 ## 自我評估
-✅ 熟悉，之後可以略過複習
+✅ 熟練
+
