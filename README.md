@@ -4,7 +4,8 @@
 |------|------|------|------|-----------|
 | 6/23 | Two Sum | Array | 完成 | [two_sum.md](arrays/two_sum.md) |
 | 6/23 | Valid Parentheses | Stack | 完成 | [valid_parentheses.md](stack/valid_parentheses.md) |
-
+| 6/24 | Merge Sorted Array | Two Pointer | 完成 | [valid_parentheses.md](two_pointers/merge_sorted_array.md) |
+| 6/24 | Remove Duplicates from Sorted Array| Array| Easy | 完成 | arrays/remove_duplicates.md |
 
 ---
 
@@ -16,8 +17,8 @@
 |-----|----------|----------|------|------|-----------|
 | Day 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Array, HashMap | Easy | done | arrays/two_sum.md |
 | Day 1 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | Easy | done | stack/valid_parentheses.md |
-| Day 2 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array, Two Pointers | Easy | ⬜ | arrays/merge_sorted_array.md |
-| Day 2 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array, Two Pointers | Easy | ⬜ | arrays/remove_duplicates.md |
+| Day 2 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array, Two Pointers | Easy | done | two_pointers/merge_sorted_array.md |
+| Day 2 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array, Two Pointers | Easy | done | arrays/remove_duplicates.md |
 | Day 3 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array, DP | Easy | ⬜ | arrays/buy_sell_stock.md |
 | Day 4 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Hash Set | Easy | ⬜ | hash/contains_duplicate.md |
 | Day 4 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | HashMap, Sorting | Easy | ⬜ | hash/valid_anagram.md |
