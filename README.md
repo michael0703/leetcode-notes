@@ -5,7 +5,7 @@
 | 6/23 | Two Sum | Array | 完成 | [two_sum.md](arrays/two_sum.md) |
 | 6/23 | Valid Parentheses | Stack | 完成 | [valid_parentheses.md](stack/valid_parentheses.md) |
 | 6/24 | Merge Sorted Array | Two Pointer | 完成 | [valid_parentheses.md](two_pointers/merge_sorted_array.md) |
-| 6/24 | Remove Duplicates from Sorted Array| Array | 完成 | arrays/remove_duplicates.md |
+| 6/24 | Remove Duplicates from Sorted Array| Array | 完成 | [remove_duplicates.md](arrays/remove_duplicates.md) |
 
 ---
 
