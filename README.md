@@ -6,6 +6,10 @@
 | 6/23 | Valid Parentheses | Stack | 完成 | [valid_parentheses.md](stack/valid_parentheses.md) |
 | 6/24 | Merge Sorted Array | Two Pointer | 完成 | [valid_parentheses.md](two_pointers/merge_sorted_array.md) |
 | 6/24 | Remove Duplicates from Sorted Array| Array | 完成 | [remove_duplicates.md](arrays/remove_duplicates.md) |
+| 6/25 | Best Time to Buy and Sell Stock| DP | 完成 | [buy_sell_stock.md](dp/buy_sell_stock.md) |
+| 6/25 | Contains Duplicate| DP | 完成 | [contains_duplicate.md](hash/contains_duplicate.md) |
+
+
 
 ---
 
@@ -19,7 +23,7 @@
 | Day 1 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | Easy | done | stack/valid_parentheses.md |
 | Day 2 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array, Two Pointers | Easy | done | two_pointers/merge_sorted_array.md |
 | Day 2 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array, Two Pointers | Easy | done | arrays/remove_duplicates.md |
-| Day 3 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array, DP | Easy | ⬜ | arrays/buy_sell_stock.md |
+| Day 3 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array, DP | Easy | ⬜ | dp/buy_sell_stock.md |
 | Day 4 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Hash Set | Easy | ⬜ | hash/contains_duplicate.md |
 | Day 4 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | HashMap, Sorting | Easy | ⬜ | hash/valid_anagram.md |
 | Day 5 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Stack, Design | Medium | ⬜ | stack/min_stack.md |
