@@ -19,12 +19,6 @@
 
 | Day | 題目連結 | 主題分類 | 難度 | 狀態 | 筆記連結 |
 |-----|----------|----------|------|------|-----------|
-| Day 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Array, HashMap | Easy | done | arrays/two_sum.md |
-| Day 1 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | Easy | done | stack/valid_parentheses.md |
-| Day 2 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array, Two Pointers | Easy | done | two_pointers/merge_sorted_array.md |
-| Day 2 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array, Two Pointers | Easy | done | arrays/remove_duplicates.md |
-| Day 3 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array, DP | Easy | ⬜ | dp/buy_sell_stock.md |
-| Day 4 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Hash Set | Easy | ⬜ | hash/contains_duplicate.md |
 | Day 4 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | HashMap, Sorting | Easy | ⬜ | hash/valid_anagram.md |
 | Day 5 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Stack, Design | Medium | ⬜ | stack/min_stack.md |
 | Day 6 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Queue, Stack | Easy | ⬜ | queue/queue_using_stack.md |
