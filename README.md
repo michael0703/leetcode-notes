@@ -8,7 +8,8 @@
 | 6/24 | Remove Duplicates from Sorted Array| Array | 完成 | [remove_duplicates.md](arrays/remove_duplicates.md) |
 | 6/25 | Best Time to Buy and Sell Stock| DP | 完成 | [buy_sell_stock.md](dp/buy_sell_stock.md) |
 | 6/25 | Contains Duplicate| DP | 完成 | [contains_duplicate.md](hash/contains_duplicate.md) |
-
+| 6/27 | Valid Anagram| Hash | 完成 | [valid_anagram.md](hash/valid_anagram.md) |
+| 6/27 | Min Stack| Stack | 完成 | [min_stack.md](stack/min_stack.md) |
 
 
 ---
