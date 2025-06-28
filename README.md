@@ -10,6 +10,8 @@
 | 6/25 | Contains Duplicate| DP | 完成 | [contains_duplicate.md](hash/contains_duplicate.md) |
 | 6/27 | Valid Anagram| Hash | 完成 | [valid_anagram.md](hash/valid_anagram.md) |
 | 6/27 | Min Stack| Stack | 完成 | [min_stack.md](stack/min_stack.md) |
+| 6/28 | queue_using_stack| Queue | 完成 | [queue_using_stack.md](queue/queue_using_stack.md) |
+| 6/28 | linked_list_cycle| link list | 完成 | [linked_list_cycle.md](linked_list/linked_list_cycle.md) |
 
 
 ---
@@ -20,10 +22,6 @@
 
 | Day | 題目連結 | 主題分類 | 難度 | 狀態 | 筆記連結 |
 |-----|----------|----------|------|------|-----------|
-| Day 4 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | HashMap, Sorting | Easy | ⬜ | hash/valid_anagram.md |
-| Day 5 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Stack, Design | Medium | ⬜ | stack/min_stack.md |
-| Day 6 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Queue, Stack | Easy | ⬜ | queue/queue_using_stack.md |
-| Day 7 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List, Two Pointers | Easy | ⬜ | linked_list/linked_list_cycle.md |
 | Day 7 | 複習整理日 | 筆記總結、自我評估 | - | ⬜ | daily_log/2025-Week1-Review.md |
 
 
