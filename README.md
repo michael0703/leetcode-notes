@@ -12,37 +12,35 @@
 | 6/27 | Min Stack| Stack | 完成 | [min_stack.md](stack/min_stack.md) |
 | 6/28 | queue_using_stack| Queue | 完成 | [queue_using_stack.md](queue/queue_using_stack.md) |
 | 6/28 | linked_list_cycle| link list | 完成 | [linked_list_cycle.md](linked_list/linked_list_cycle.md) |
+| 6/30 | longest_unique_substring| sliding_window | 完成 | [longest_unique_substring.md](sliding_window/longest_unique_substring.md) |
+| 6/30 | binary_search| binary_search | 完成 | [binary_search.md](binary_search/binary_search.md) |
 
 
 ---
+# 📅 Leetcode 面試準備 Week 2 任務表
 
-# 📅 Leetcode 面試準備 Week 1 任務表
+> 主題：Sliding Window, Binary Search, Two Pointers  
+> 目標：掌握雙指標操作與二分搜尋，熟悉邊界控制與 template 模式
+
+---
 
 ## ✅ 每日進度表
 
-| Day | 題目連結 | 主題分類 | 難度 | 狀態 | 筆記連結 |
-|-----|----------|----------|------|------|-----------|
-| Day 7 | 複習整理日 | 筆記總結、自我評估 | - | ⬜ | daily_log/2025-Week1-Review.md |
+| Day | 題目連結 | 主題 | 難度 | 狀態 | 筆記連結 |
+|-----|----------|------|------|------|-----------|
+| Day 1 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | Easy | ⬜ | binary_search/binary_search.md |
+| Day 2 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Sliding Window | Hard | ⬜ | sliding_window/min_window_substring.md |
+| Day 2 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | Easy | ⬜ | binary_search/first_bad_version.md |
+| Day 3 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | Medium | ⬜ | two_pointers/container_most_water.md |
+| Day 3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary Search | Medium | ⬜ | binary_search/search_rotated_array.md |
+| Day 4 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding Window | Medium | ⬜ | sliding_window/anagram_in_string.md |
+| Day 4 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Binary Search | Medium | ⬜ | binary_search/find_min_in_rotated_array.md |
+| Day 5 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Sliding Window | Medium | ⬜ | sliding_window/permutation_in_string.md |
+| Day 5 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | Easy | ⬜ | binary_search/search_insert_position.md |
+| Day 6 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Sliding Window | Medium | ⬜ | sliding_window/min_subarray_sum.md |
+| Day 6 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Binary Search | Medium | ⬜ | binary_search/find_first_last_pos.md |
+| Day 7 | 複習整理日 | ✏️ 複習錯題、筆記總結、自我評估 | - | ⬜ | daily_log/2025-Week2-Review.md |
 
-
----
-
-✅ Week 2：Two Pointers & Binary Search
-題型：Sliding Window, Binary Search
-
-加強邏輯推理、邊界控制
-
-📌 推薦題：
-
-Longest Substring Without Repeating Characters
-
-Minimum Window Substring
-
-Binary Search
-
-Search in Rotated Sorted Array
-
-Find Minimum in Rotated Sorted Array
 
 ✅ Week 3：DFS / BFS 與 Recursion
 題型：Graph, Recursion
