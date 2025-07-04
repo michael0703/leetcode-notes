@@ -14,6 +14,8 @@
 | 6/28 | linked_list_cycle| link list | 完成 | [linked_list_cycle.md](linked_list/linked_list_cycle.md) |
 | 6/30 | longest_unique_substring| sliding_window | 完成 | [longest_unique_substring.md](sliding_window/longest_unique_substring.md) |
 | 6/30 | binary_search| binary_search | 完成 | [binary_search.md](binary_search/binary_search.md) |
+| 7/4 | First Bad Version| binary_search | 完成 | [first_bad_version.md](binary_search/first_bad_version.md) |
+| 7/4 | container_most_water| two pointers | 完成 | [container_most_water.md](two_pointers/container_most_water.md) |
 
 
 ---
@@ -28,10 +30,7 @@
 
 | Day | 題目連結 | 主題 | 難度 | 狀態 | 筆記連結 |
 |-----|----------|------|------|------|-----------|
-| Day 1 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | Easy | ⬜ | binary_search/binary_search.md |
 | Day 2 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Sliding Window | Hard | ⬜ | sliding_window/min_window_substring.md |
-| Day 2 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | Easy | ⬜ | binary_search/first_bad_version.md |
-| Day 3 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers | Medium | ⬜ | two_pointers/container_most_water.md |
 | Day 3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary Search | Medium | ⬜ | binary_search/search_rotated_array.md |
 | Day 4 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding Window | Medium | ⬜ | sliding_window/anagram_in_string.md |
 | Day 4 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Binary Search | Medium | ⬜ | binary_search/find_min_in_rotated_array.md |
