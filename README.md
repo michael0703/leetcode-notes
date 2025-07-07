@@ -16,7 +16,8 @@
 | 6/30 | binary_search| binary_search | 完成 | [binary_search.md](binary_search/binary_search.md) |
 | 7/4 | First Bad Version| binary_search | 完成 | [first_bad_version.md](binary_search/first_bad_version.md) |
 | 7/4 | container_most_water| two pointers | 完成 | [container_most_water.md](two_pointers/container_most_water.md) |
-
+| 7/7 | anagram_in_string| sliding windows | 完成 | [anagram_in_string.md](sliding_window/anagram_in_string.md) |
+| 7/7 | permutation_in_string(基本上就是上面那一題)| sliding windows | 完成 | [anagram_in_string.md](sliding_window/anagram_in_string.md) |
 
 ---
 # 📅 Leetcode 面試準備 Week 2 任務表
@@ -31,8 +32,6 @@
 | Day | 題目連結 | 主題 | 難度 | 狀態 | 筆記連結 |
 |-----|----------|------|------|------|-----------|
 | Day 2 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Sliding Window | Hard | ⬜ | sliding_window/min_window_substring.md |
-| Day 3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary Search | Medium | ⬜ | binary_search/search_rotated_array.md |
-| Day 4 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding Window | Medium | ⬜ | sliding_window/anagram_in_string.md |
 | Day 4 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Binary Search | Medium | ⬜ | binary_search/find_min_in_rotated_array.md |
 | Day 5 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Sliding Window | Medium | ⬜ | sliding_window/permutation_in_string.md |
 | Day 5 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | Easy | ⬜ | binary_search/search_insert_position.md |
